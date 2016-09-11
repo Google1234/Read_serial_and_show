@@ -1,0 +1,2 @@
+# Read_serial_and_show
+用python实现的读com串口，并用串口数据画图
